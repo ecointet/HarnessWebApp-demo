@@ -11,7 +11,6 @@ steps:
     dockerfile: nginx/Dockerfile
     context: nginx/
     auto_tag: true
-    auto_tag_suffix: dev
     #tags: "3.71"
 #- name: docker-api  
 #  image: plugins/docker
