@@ -1,6 +1,6 @@
 <?php
 //Working on different version
-$auth_version=1;
+$auth_version=2;
 
 //New Auth Module is version 2
 //Old Auth Module is version 1
